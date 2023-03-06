@@ -1,3 +1,6 @@
 body{
-    background-color: brown;
+    background-color: rgb(152, 54, 177);
+}
+img:hover{
+    background-color: rgba(197, 204, 103, 0.918);
 }
