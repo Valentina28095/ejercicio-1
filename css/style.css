@@ -4,3 +4,9 @@ body{
 img:hover{
     background-color: rgba(197, 204, 103, 0.918);
 }
+/* estilo por etiqueta */
+#nombre{
+border: 2px solid black;
+border-radius: 3px;
+background-color: aqua;
+}
